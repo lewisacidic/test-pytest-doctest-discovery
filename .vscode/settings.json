@@ -1,0 +1,10 @@
+{
+    "python.linting.enabled": false,
+    "python.testing.pyTestArgs": [
+        "example", "--doctest-modules", "--doctest-glob=docs/*"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pyTestEnabled": true,
+    "python.pythonPath": "/home/rich/miniconda3/bin/python"
+}
